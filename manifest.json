@@ -2,5 +2,12 @@
     "name": "${modName}",
     "entry": "${modFile}",
     "version": "${modVersion}",
-    "type": "native"
+    "type": "native",
+    "author": "啥也不会的子沐呀",
+    "description": "内网穿透motd显示修复",
+    "version": "1.0.1",
+    "extraInfo": {
+        "sentryDsn": "https://109c16b89e60e37147e4f5fbb417d656@o4508796501819392.ingest.de.sentry.io/4508828324593744",
+        "sentryUploadType": "sus"
+    }
 }
